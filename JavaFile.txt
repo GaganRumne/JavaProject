@@ -5,3 +5,7 @@ Java is following the naming convension
 Java is object oriented language
 It is Portable language
 It is secured
+
+
+
+Applications of Java
