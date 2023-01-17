@@ -6,6 +6,9 @@ Java is object oriented language
 It is Portable language
 It is secured
 
+It is robust
+It is independent
+
 
 
 Applications of Java
