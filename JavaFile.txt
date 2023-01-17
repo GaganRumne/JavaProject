@@ -1,0 +1,6 @@
+
+
+Java is following the naming convension
+
+Java is object oriented language
+It is Portable language
